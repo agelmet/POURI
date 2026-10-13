@@ -3,8 +3,8 @@
  "short_name": "Ψυχολόγος Εύ",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F2EEE6",
- "theme_color": "#F2EEE6",
+ "background_color": "#E4B6AB",
+ "theme_color": "#E4B6AB",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
