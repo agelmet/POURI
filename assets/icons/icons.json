@@ -1,16 +1,16 @@
 {
  "source": {
-  "kind": "inline",
-  "ref": "the header logo (inline SVG in index.html)"
+  "kind": "file",
+  "ref": "assets/img/pouri-mark-icon.svg"
  },
- "source_md5": "45391431417ab95c0de4464e93d8bf01",
- "version": "753634c4",
+ "source_md5": "19f74d5ec959a3df796ed55a1605d396",
+ "version": "50e83fbd",
  "tile": "#F2EEE6",
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "45391431417ab95c0de4464e93d8bf01"
+  "ed9c43516ff69ff5faf9f82491613228"
  ],
- "made": "2026-10-08"
+ "made": "2026-10-13"
 }
