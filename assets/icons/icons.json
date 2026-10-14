@@ -1,16 +1,16 @@
 {
  "source": {
   "kind": "file",
-  "ref": "assets/img/pouri-mark-icon.svg"
+  "ref": "assets/img/pouri-logo-icon.svg"
  },
- "source_md5": "19f74d5ec959a3df796ed55a1605d396",
- "version": "8d17d2ad",
- "tile": "#E4B6AB",
+ "source_md5": "3677b85980017dc01a8df1f8a7ee4c3c",
+ "version": "fee0b973",
+ "tile": "#22372C",
  "crop": null,
  "header": [
   "inline",
   "index.html",
   "ed9c43516ff69ff5faf9f82491613228"
  ],
- "made": "2026-10-13"
+ "made": "2026-10-14"
 }
